@@ -3,27 +3,27 @@ title = "Claude Code"
 identifier = "ora-space.claude"
 namespace = "official"
 kind = "agent"
-version = "0.3.18"
+version = "0.3.20"
 description = "Ora Space Claude Code Agent"
 homepage = "https://github.com/ora-space/claude-code-agent"
 license = "Apache-2.0"
 
 [[targets]]
 target = "x86_64-pc-windows-msvc"
-url = "https://github.com/ora-space/claude-code-agent/releases/download/v0.3.18/ora-space.claude-v0.3.18-x86_64-pc-windows-msvc.orax"
-sha256 = "851601fd54cc2bb7edc862d1c06f6e57d849730cbfa1200e349ef1f7fd3ac891"
+url = "https://github.com/ora-space/claude-code-agent/releases/download/v0.3.20/ora-space.claude-v0.3.20-x86_64-pc-windows-msvc.orax"
+sha256 = "8a214fd0b494ab5586fa528b3c4ba20e14b4e66c44bacdfa5d97e79f83b8d464"
 
 [[targets]]
 target = "aarch64-apple-darwin"
-url = "https://github.com/ora-space/claude-code-agent/releases/download/v0.3.18/ora-space.claude-v0.3.18-aarch64-apple-darwin.orax"
-sha256 = "a663579a23ecace21ee9640a77cbe4754c85340f685236d9d7e26826cfd73cc5"
+url = "https://github.com/ora-space/claude-code-agent/releases/download/v0.3.20/ora-space.claude-v0.3.20-aarch64-apple-darwin.orax"
+sha256 = "1e840b35834bc668f7d25264ce1781ed95ca369b1321261a453a7efa4e1fab3a"
 
 [[targets]]
 target = "x86_64-unknown-linux-gnu"
-url = "https://github.com/ora-space/claude-code-agent/releases/download/v0.3.18/ora-space.claude-v0.3.18-x86_64-unknown-linux-gnu.orax"
-sha256 = "1b59b6546612461ea649c622f598f6d5df41aa24da5851914a3a23aa438ae247"
+url = "https://github.com/ora-space/claude-code-agent/releases/download/v0.3.20/ora-space.claude-v0.3.20-x86_64-unknown-linux-gnu.orax"
+sha256 = "f935cf50aea73d98f9e95872d670023edb04ddcae9f39cdc20334a6369b32827"
 
 [[targets]]
 target = "aarch64-unknown-linux-gnu"
-url = "https://github.com/ora-space/claude-code-agent/releases/download/v0.3.18/ora-space.claude-v0.3.18-aarch64-unknown-linux-gnu.orax"
-sha256 = "de9c9d4f264feee0a50fd1af63ad7df78bb0d4d1c36d6bc16b715b2c30f72d85"
+url = "https://github.com/ora-space/claude-code-agent/releases/download/v0.3.20/ora-space.claude-v0.3.20-aarch64-unknown-linux-gnu.orax"
+sha256 = "ddd07156a035c98307504c396b87e0a0b1ad1f050b83db41f2e5e302db16dea3"
